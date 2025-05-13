@@ -14,8 +14,5 @@ Me chamo Eduardo César, sou Engenheiro de Software com foco em desenvolvimento 
 ![Docker](https://img.shields.io/badge/Docker-%23F7DF1E.svg?style=flat&logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23F7DF1E.svg?style=flat&logo=spring-boot&logoColor=white)
 
-## Lattes Completo
-[http://lattes.cnpq.br/9507290751434167](http://lattes.cnpq.br/9507290751434167)
-
-## Linkedin
-[www.linkedin.com/in/eduardocesarf](https://www.linkedin.com/in/eduardocesarf)
+[## Linkedin
+https://www.linkedin.com/in/eduardo-c%C3%A9sar-4a674627/
